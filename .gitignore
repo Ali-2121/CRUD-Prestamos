@@ -39,3 +39,4 @@ pip-delete-this-directory.txt
 
 # Archivos generados por Pylint
 pylint-report.txt
+EntornoPY/
