@@ -1,0 +1,41 @@
+# Archivos y carpetas generados por el entorno virtual
+venv/
+.env/
+
+# Archivos de configuración de IDE (por ejemplo, VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Archivos de configuración de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+
+# Archivos de cobertura de pruebas
+.coverage
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Archivos de log
+*.log
+
+# Archivos de dependencias
+*.egg
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Archivos de caché de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de configuración de Uvicorn y FastAPI (opcional, si generas archivos de configuración)
+*.json
+*.ini
+
+# Archivos generados por Pylint
+pylint-report.txt
